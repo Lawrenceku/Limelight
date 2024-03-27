@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Marquee from './components/Marquee'
 import Features from './components/Features'
 import FAQs from './components/FAQs'
+import Newsletter from './components/Newsletter'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
       <Marquee/>
       <Features/>
       <FAQs answer={answer} question={question}/>
+      <Newsletter/>
     </>
   )
 }

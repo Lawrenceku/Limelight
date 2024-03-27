@@ -8,7 +8,7 @@ const Features =()=>{
 
 
             <div class="mb-16 text-center">
-                <h4 class="text-base text-green-600 font-semibold tracking-wide uppercase">Features</h4>
+                <h4 class="text-base text-green-600 font-bold tracking-wide uppercase">Features</h4>
                 <p class="mt-2 text-5xl lg:text-7xl font-bold tracking-tight text-gray-900">How we change the game
 
                 </p>
@@ -18,7 +18,7 @@ const Features =()=>{
             <div class="flex flex-wrap my-12">
 
 
-                <div class="w-full border-b md:w-1/2 md:border-r lg:w-1/3 p-8">
+                <div class="w-full border-b-2 border-black md:w-1/2 md:border-r-2 lg:w-1/3 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
@@ -34,7 +34,7 @@ const Features =()=>{
 
 
 
-                <div class="w-full border-b md:w-1/2 lg:w-1/3 lg:border-r p-8">
+                <div class="w-full border-b-2 border-black md:w-1/2 lg:w-1/3 lg:border-r-2 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
@@ -50,7 +50,7 @@ const Features =()=>{
 
 
 
-                <div class="w-full border-b md:w-1/2 md:border-r lg:w-1/3 lg:border-r-0 p-8">
+                <div class="w-full border-b-2 border-black md:w-1/2 md:border-r-2 lg:w-1/3 lg:border-r-0 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
@@ -66,7 +66,7 @@ const Features =()=>{
 
 
 
-                <div class="w-full border-b md:w-1/2 lg:w-1/3 lg:border-r lg:border-b-0 p-8">
+                <div class="w-full border-b-2 border-black md:w-1/2 lg:w-1/3 lg:border-r-2 lg:border-b-0 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
@@ -82,7 +82,7 @@ const Features =()=>{
 
 
 
-                <div class="w-full border-b md:w-1/2 md:border-r md:border-b-0 lg:w-1/3 lg:border-b-0 p-8">
+                <div class="w-full border-b-2 border-black md:w-1/2 md:border-r-2 md:border-b-0 lg:w-1/3 lg:border-b-0 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
@@ -98,7 +98,7 @@ const Features =()=>{
 
 
 
-                <div class="w-full md:w-1/2 lg:w-1/3 p-8">
+                <div class="w-full border-black md:w-1/2 lg:w-1/3 p-8">
                     <div class="flex items-center mb-6">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20"
                             fill="currentColor" class="h-6 w-6 text-green-500">
