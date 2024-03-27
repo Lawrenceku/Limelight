@@ -3,7 +3,7 @@ import { useState } from 'react'
 export default function Newsletter() {
   const [email, setEmail] = useState('')
 
-  const signUpForNewsletter = (e: React.SyntheticEvent) => {
+  const signUpForNewsletter = (e) => {
     e.preventDefault()
   }
 

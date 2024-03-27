@@ -1,15 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
 import { FiPlus } from 'react-icons/fi'
 
-type Props = {
-  question: string
-  answer: string
-}
 
-export default function FAQs({ question, answer }: Props) {
+export default function FAQs({ question, answer }) {
   const [showContent, setShowContent] = useState(false)
   const [contentHeight, setContentHeight] = useState('0px')
-  const contentRef = useRef<HTMLDivElement>(null)
+  const contentRef = useRef(null)
 
   useEffect(() => {
     if (contentRef.current) {
