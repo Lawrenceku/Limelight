@@ -4,7 +4,7 @@
 
 /* Hide default scrollbar */
 ::-webkit-scrollbar {
-    width: 15px;
+    width: 18px;
   }
   
   /* Define scrollbar track */
@@ -19,6 +19,6 @@
   
   /* Define scrollbar thumb on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #888; /* Change thumb color on hover */
+    background: #000; /* Change thumb color on hover */
   }
   
