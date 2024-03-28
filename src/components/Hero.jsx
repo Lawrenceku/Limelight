@@ -1,11 +1,12 @@
 import React from "react";
 //import logo from '../../public/logo.svg';
 import logo from '../../public/logo.png'
+import bg from '../../public/bg.png'
 
 const Hero = () =>{
 return(
     <>
-<section className="px-3 py-5 bg-[#69d2e7]  lg:py-10">
+<section className="px-3 py-5 bg-[url('../../public/bg.png')] bg-top bg-cover bg-center bg-no-repeat w-full h-[50%] bg- lg:py-10">
     
     <div className="flex justify-between items-center mb-8">
     <img src={logo} alt="logo" className="w-20 "/>
@@ -36,7 +37,7 @@ return(
             </div>
                 </div>
         <div className="order-1 lg:order-2">
-            <img className=" h-80 w-80 object-cover lg:w-[500px] lg:h-[500px] shadow-[7px_7px_0px_rgba(0,0,0,1)]" src="https://img.freepik.com/free-vector/happy-man-standing-spotlight_74855-16900.jpg?w=996&t=st=1711590066~exp=1711590666~hmac=41faaf3d80e19a4031be24afea45cf2ccb7fcf05f0d2e5dde958e043ec391042" alt=""/>
+            <img className=" h-80 w-80 object-cover lg:w-[500px] lg:h-[500px] border-2 border-black shadow-[5px_7px_0px_rgba(0,0,0,1)]" src="../../public/illustration.png" alt=""/>
         </div>
     </div>
 </section>
