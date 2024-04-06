@@ -38,7 +38,7 @@ export default function FAQs() {
             role="button"
             aria-expanded={showContent[index]}
             style={{ borderBottom: showContent[index] ? 'solid 2px' : '0px' }}
-            className="flex w-full items-center justify-between rounded-[5px] border-black bg-[#fdfd96] p-5 font-bold"
+            className="flex w-full items-center justify-between rounded-[5px] border-black bg-[#ffff00] p-5 font-bold"
             onClick={() => toggleContent(index)}
           >
             {question}

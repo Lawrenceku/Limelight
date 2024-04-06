@@ -12,7 +12,7 @@ import React from "react";
     </div>
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div class="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center">
-            <h2 class="mb-6 font-sans text-8xl text-center font-bold tracking-tight  sm:text-4xl sm:leading-none">
+            <h2 class="mb-6 font-sans text-4xl text-center font-bold tracking-tight sm:leading-none">
               Subscribe to our newsletter
             </h2>
             <p class="mb-6 text-bold md:text-lg">
@@ -37,7 +37,7 @@ import React from "react";
                 Submit
               </button>
             </form>
-            <p class="max-w-md mb-10 text-xs tracking-wide  sm:text-sm sm:mx-auto md:mb-16">
+            <p class="max-w-md mb-10 text-xs tracking-wide mt-2 sm:text-sm sm:mx-auto md:mb-16">
             Join our community and be the first to know about our latest app releases, updates, and exclusive offers. Subscribe now to stay in the Limelight!
             </p>
             <a href="/" aria-label="Scroll down"
