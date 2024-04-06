@@ -25,7 +25,7 @@ return(
     <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5">
         <div className="order-2 lg:order-1 mx-10 flex flex-col justify-center md:items-start items-center">
             <p className="text-4xl text font-bold md:text-7xl ">Step into the <span className="text-[#ff4911]">Limelight</span></p>
-            <p className="mt-2 text-sm md:text-lg">Streamline your app publishing journey with our intuitive platform.</p>
+            <p className="mt-2 text-sm md:text-lg">Streamline your app publishing journey with Limelight.</p>
 
             <div className="flex justify-evenly space-x-6">  
             <button

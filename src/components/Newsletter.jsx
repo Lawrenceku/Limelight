@@ -37,7 +37,7 @@ import React from "react";
                 Submit
               </button>
             </form>
-            <p class="max-w-md mb-10 text-xs tracking-wide mt-2 sm:text-sm sm:mx-auto md:mb-16">
+            <p class="max-w-md mb-10 text-xs tracking-wide mt-2 sm:text-sm sm:mx-auto md:mb-16 text-white">
             Join our community and be the first to know about our latest app releases, updates, and exclusive offers. Subscribe now to stay in the Limelight!
             </p>
             <a href="/" aria-label="Scroll down"
