@@ -8,13 +8,13 @@ return(
 <section className="px-3 py-5  w-full h-[50%]  bg-[rgba(255,255,255,0.9)]  lg:py-10">
     <div className="flex justify-between items-center mb-8">
     <img src={logo} alt="logo" className="w-20 text-[#2fff2f] "/>
-            <div>
+            <div className="flex">
             <button
-                className="mx-8 w-20 h-12 border-black border-2 mt-4 p-2.5 bg-white font-medium hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-[(0)] shadow-[3px_3px_0px_rgba(0,0,0,1)] " >
+                className="mx-8 min-w-20 h-12 border-black border-2 mt-4 p-2.5 bg-white font-medium hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-[(0)] shadow-[3px_3px_0px_rgba(0,0,0,1)] " >
             Log In
             </button>
                 <button
-                className="mx-8  h-12 border-black border-2 mt-4 p-2.5 bg-black text-white font-medium  hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-[(0)] shadow-[3px_3px_0px_rgba(0,0,0,1)] " >
+                className="md:mx-8  text-nowrap border-black border-2 mt-4 p-2.5 bg-black text-white font-medium  hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-[(0)] shadow-[3px_3px_0px_rgba(0,0,0,1)] " >
             Sign Up
             </button>
             </div>
@@ -33,8 +33,8 @@ return(
             </button>
             </div>
                 </div>
-        <div className="order-1 lg:order-2 p-8 bg-[#A9DC76] shadow-[8px_8px_0px_rgba(0,0,0,1)]">
-            <img className=" h-80  w-80 object-cover lg:w-[500px] lg:h-[500px] " src="../../public/illustration.jpg" alt=""/>
+        <div className="order-1 lg:order-2 p-8  bg-[#A9DC76] shadow-[8px_8px_0px_rgba(0,0,0,1)]">
+            <img className="h-72 w-72 md:h-80  md:w-80 object-cover lg:w-[500px] lg:h-[500px] " src="../../public/illustration.jpg" alt=""/>
         </div>
     </div>
 </section>
