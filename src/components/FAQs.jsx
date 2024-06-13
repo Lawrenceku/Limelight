@@ -59,7 +59,7 @@ export default function FAQs() {
         </div>
       ))}     
        <button
-                className="h-16 text-2xl font-medium border-black border-2 mt-20 p-2.5 bg-[#2fff2f]  hover:shadow-[0] shadow-[3px_3px_0px_rgba(0,0,0,1)] active:bg-[#00E1EF]"
+                className="h-16 text-2xl font-medium border-black border-2 mt-20 p-2.5 bg-[#2fff2f]  shadow-[3px_3px_0px_rgba(0,0,0,1)] hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-[(0)]"
                 >
             Get Started
             </button>
