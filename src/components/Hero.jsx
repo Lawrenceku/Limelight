@@ -33,8 +33,8 @@ return(
             </button>
             </div>
                 </div>
-        <div className="order-1 lg:order-2 p-8  bg-[#A9DC76] shadow-[8px_8px_0px_rgba(0,0,0,1)]">
-            <img className="h-72 w-72 md:h-80  md:w-80 object-cover lg:w-[500px] lg:h-[500px] " src="../../public/illustration.jpg" alt=""/>
+        <div className="order-1 lg:order-2 p-8 ">
+            <img className="h-72 w-72 md:h-80  md:w-80 object-cover lg:w-[500px] lg:h-[500px] " src="../../public/megaphone-concept-illustration.png" alt=""/>
         </div>
     </div>
 </section>

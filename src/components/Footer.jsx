@@ -19,13 +19,13 @@ const Footer = () => {
             <div className="mt-[18px] flex gap-4">
             <a
             class="hover:scale-110" target="_blank"
-            href="/"><img alt="linkdin icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/linkdin.svg" /></a><a
+            href="/"><img alt="linkdin icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="../../public/linkedin.png" /></a><a
             class="hover:scale-110" target="_blank"
-            href="/"><img alt="instagram icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/instagram1.svg" /></a><a
+            href="/"><img alt="instagram icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="../../public/instagram.png" /></a><a
             class="hover:scale-110" target="_blank"
-            href=""><img alt="twitter icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/twitter.svg" /></a><a
+            href=""><img alt="twitter icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="../../public/twitter.png" /></a><a
             class="hover:scale-110" target="_blank"
-            href="https://www.youtube.com/"><img alt="youtube icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/youtube.svg" /></a>
+            href="https://www.youtube.com/"><img alt="youtube icon" loading="lazy" width="36" height="36" decoding="async" data-nimg="1"  src="../../public/youtube.png" /></a>
             </div>
           </div>
           <div class="md:w-[316px]">
@@ -98,9 +98,9 @@ const Footer = () => {
           <p class="text-deutziawhite font-inter text-[18px] font-medium">Download the app</p>
           <div class="flex gap-4 sm:flex-col">
             <a target="_blank"
-              href="#"><img alt="facebook icon" loading="lazy" width="168" height="50" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/google-store.svg" /></a><a
+              href="#"><img alt="Download on playstore" loading="lazy" width="168" height="50" decoding="async" data-nimg="1"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" /></a><a
               target="_blank"
-              href="#"><img alt="facebook icon" loading="lazy" width="168" height="50" decoding="async" data-nimg="1"  src="https://www.englishyaari.com/img/apple-store.svg" /></a>
+              href="#"><img alt="facebook icon" loading="lazy" width="168" height="50" decoding="async" data-nimg="1"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" /></a>
           </div>
         </div>
       </div>

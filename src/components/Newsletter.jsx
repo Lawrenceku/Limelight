@@ -15,7 +15,7 @@ import React from "react";
             <h2 class="mb-6 font-sans text-4xl text-center font-bold tracking-tight sm:leading-none">
               Subscribe to our newsletter
             </h2>
-            <p class="mb-6 text-bold md:text-lg">
+            <p class="mb-6 text-bold text-center  md:text-lg">
             Stay up to date with the latest news, updates, and exclusive offers from Limelight. Enter your email to subscribe to our newsletter.
             </p>
             <form
@@ -37,7 +37,7 @@ import React from "react";
                 Submit
               </button>
             </form>
-            <p class="max-w-md mb-10 text-xs tracking-wide mt-2 sm:text-sm sm:mx-auto md:mb-16 text-white">
+            <p class="max-w-md mb-10 text-xs tracking-wide mt-2 sm:text-sm sm:mx-auto md:mb-16 text-center  text-white">
             Join our community and be the first to know about our latest app releases, updates, and exclusive offers. Subscribe now to stay in the Limelight!
             </p>
             <a href="/" aria-label="Scroll down"

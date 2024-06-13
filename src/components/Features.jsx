@@ -8,7 +8,7 @@ const Features =()=>{
 
 
             <div class="mb-16 text-center">
-                <h4 class="text-base text-[#2fff2f] font-bold tracking-wide uppercase">Features</h4>
+                <h4 class="text-base font-bold tracking-wide uppercase">Features</h4>
                 <p class="mt-2 text-5xl lg:text-7xl font-bold tracking-tight text-gray-900">How we change the game
 
                 </p>
