@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Marquee() {    
     return (
-    <div className="bg-[url('https://img.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg?size=338&ext=jpg&ga=GA1.1.1395991368.1711497600&semt=ais')] bg-center bg-repeat py-16 px-8">
+    <div className="py-16 px-8">
         <div className="relative flex overflow-x-hidden bg-white border-b-2 border-t-2 border-black">
         <div className="py-12 animate-marquee whitespace-nowrap">
             <span className="text-4xl font-medium mx-16"><img className="w-20 inline-block" src="https://play-lh.googleusercontent.com/4_RW0mQ5mJhGGJVydTlQsQ0pnqAYq9UoTVm2_gElrgRM13Q02w43HPgYVaMFy4b4smmF" alt="" />Google play console</span>

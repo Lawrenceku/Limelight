@@ -1,3 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background:url('https://img.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg?size=338&ext=jpg&ga=GA1.1.1395991368.1711497600&semt=ais');
+    background-repeat: repeat;
+    background-position: center;
 }

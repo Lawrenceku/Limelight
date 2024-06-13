@@ -21,4 +21,6 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #000; /* Change thumb color on hover */
   }
-  
+  body{
+    overflow-x: hidden;
+  }

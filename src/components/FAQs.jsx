@@ -31,7 +31,7 @@ export default function FAQs() {
 
   return (
     <>
-    <div className='my-8 flex flex-col items-center justify-center "'>
+    <div className='py-8 flex flex-col items-center justify-center bg-[#faebd7] '>
     {faqs.map(({ question, answer }, index) => (
         <div className="w-3/4 rounded-md border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]" key={index}>
           <button
