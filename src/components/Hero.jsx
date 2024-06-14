@@ -5,7 +5,7 @@ import logo from '../../public/logo.svg';
 const Hero = () =>{
 return(
     <>
-<section className="px-3 py-5  w-full h-[50%]  bg-[rgba(255,255,255,0.9)]  lg:py-10">
+<section  className="px-3 py-5  w-full h-[50%] bg-white md:bg-[url('./public/v1043-081a-removebg-preview.png')] bg-right bg-no-repeat bg-[90%] lg:py-10">
     <div className="flex justify-between items-center mb-8">
     <img src={logo} alt="logo" className="w-20 text-[#2fff2f] "/>
             <div className="flex">
